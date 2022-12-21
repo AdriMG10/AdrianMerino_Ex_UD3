@@ -1,7 +1,15 @@
 
 import java.awt.event.KeyEvent;
 
-
+/**
+ * 
+ * <p>Esto es un ejemplo de un programa para crear un partido</p>
+ * 
+ * @author Adri
+ * 
+ * @version 1.0
+ * 
+ */
 
 public class CrearPartido extends javax.swing.JFrame
 {
@@ -88,6 +96,9 @@ public class CrearPartido extends javax.swing.JFrame
         }
     }//GEN-LAST:event_tPartidoKeyPressed
 
+    /**
+     * @param args main
+     */
     
     public static void main(String args[]) {
         /* Set the Nimbus look and feel */
