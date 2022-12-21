@@ -8,6 +8,16 @@ import javax.swing.JDialog;
  * and open the template in the editor.
  */
 
+/**
+ * 
+ * <p>Esto es un ejemplo de un programa para realizar apuestas</p>
+ * 
+ * @author Adri
+ * 
+ * @version 1.0
+ * 
+ */
+
 public class Apuesta extends javax.swing.JFrame {
 
    
@@ -211,7 +221,10 @@ public class Apuesta extends javax.swing.JFrame {
         this.listaResultados.setModel(modelonuevoresultados);
     }
     
-   
+    /**
+     * @param args main
+     */
+    
     public static void main(String args[]) {
         /* Set the Nimbus look and feel */
         //<editor-fold defaultstate="collapsed" desc=" Look and feel setting code (optional) ">
